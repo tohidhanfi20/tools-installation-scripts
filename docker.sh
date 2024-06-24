@@ -19,3 +19,6 @@ sudo apt install docker-ce -y
 sudo systemctl status docker
 
 sudo chmod 777 /var/run/docker.sock
+
+sudo docker --version
+
